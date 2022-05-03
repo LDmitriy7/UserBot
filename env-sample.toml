@@ -1,3 +1,12 @@
 [Api]
 ID = 0
 HASH = ''
+
+[Secret]
+channel_id = '@test724477101'
+post_id = 424
+texts = [
+    '<a href="https://t.me/+SYtGRCA1LHpjMGIy">⦁•• краш печатает</a>',
+    '<a href="https://t.me/+SYtGRCA1LHpjMGIy">•⦁• краш печатает</a>',
+    '<a href="https://t.me/+SYtGRCA1LHpjMGIy">••⦁ краш печатает</a>',
+]
